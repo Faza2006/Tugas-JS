@@ -1,0 +1,37 @@
+[
+
+    {
+    
+        "idmenu" : 21,
+        "idkategori" : 39,
+        "menu" : "Fanta",
+        "harga" : 4000,
+        "warna" : ["Merah","oranye","biru"],
+        "stok" : true,
+        "keterangan" : null
+    
+    },
+    {
+    
+        "idmenu" : 23,
+        "idkategori" : 39,
+        "menu" : "Pepsi",
+        "harga" : 5000,
+        "warna" : ["hitam","hijau","biru"],
+        "stok" : true,
+        "keterangan" : null
+    
+    },
+    {
+    
+        "idmenu" : 22,
+        "idkategori" : 39,
+        "menu" : "Coca-cola",
+        "harga" : 4000,
+        "warna" : ["hitam","biru"],
+        "stok" : true,
+        "keterangan" : null
+    
+    }
+
+]
